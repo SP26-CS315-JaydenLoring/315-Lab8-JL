@@ -2,33 +2,41 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Computer Science Student | Backend Developer | Embedded Systems & Robotics Builder
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Oakland City University</p>
+    <p>Computer Science Student</p>
+    <p>Interested in Backend, Robotics, and Embedded Systems</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
+  scrollable: true
+  limit: 5
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
+  scrollable: true
+  limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I’m **Jayden Loring**, a Computer Science student at **Oakland City University** with strong interests in **backend development, embedded systems, robotics, and hardware-focused engineering**.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I enjoy building projects that connect software and hardware. My experience includes programming assignments, backend development labs, command-line tools, and Arduino-based systems that use sensors, displays, and real-time feedback. I’m especially interested in the kind of engineering that turns code into something practical and physical.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Right now, I’m focused on growing through hands-on work in:
+- backend software development
+- embedded systems and Arduino
+- robotics and sensor-based systems
+- Git, Docker, and modern developer workflows
+
+Outside of tech, I’m also a **college volleyball athlete**, which has helped me develop discipline, consistency, teamwork, and a strong mindset for improvement.
+
+This portfolio is where I share my projects, skills, and progress as I work toward a career in **software engineering, computer engineering, or embedded systems engineering**.
